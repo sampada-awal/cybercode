@@ -4,8 +4,7 @@
 This repository contains daily Python projects, challenges, and learning activities focused on building my cybersecurity skills over 60 days. Each week has its own folder with code, notes.
 
 ## Structure  
-- `/Week-1` to `/Week-9` — Weekly folders with daily Python scripts and notes  
-- `README.md` files inside each week for project descriptions  
+- `/Week-1` to `/Week-9` — Weekly folders with daily Python scripts and notes   
 - Daily GitHub commits tracking progress and learning
 
 ## Goals  
